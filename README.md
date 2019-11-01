@@ -12,7 +12,11 @@
 Ссылки на доп.материалы
 
 ## Лабораторная 2
+
 ![none](https://raw.githubusercontent.com/AnastasyTol/AnastasyTol.github.io/master/model2.png)
+
+Определение автоматизируемых видов деятельности
+![none](https://raw.githubusercontent.com/AnastasyTol/AnastasyTol.github.io/master/model3.png)
 ## Лабораторная 3
 
 ## Лабораторная 4
