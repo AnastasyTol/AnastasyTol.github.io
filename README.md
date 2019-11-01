@@ -12,7 +12,7 @@
 Ссылки на доп.материалы
 
 ## Лабораторная 2
-
+![none].(https://raw.githubusercontent.com/AnastasyTol/AnastasyTol.github.io/master/model2.png)
 ## Лабораторная 3
 
 ## Лабораторная 4
