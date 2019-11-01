@@ -22,6 +22,8 @@
 Декомпозиция в DFD блока "Создание диплома"
 ![none](https://raw.githubusercontent.com/AnastasyTol/AnastasyTol.github.io/master/model3.png)
 
+![none](https://raw.githubusercontent.com/AnastasyTol/AnastasyTol.github.io/master/i.png)
+
 ## Лабораторная 4
 
 ## Лабораторная 5
